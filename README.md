@@ -1,7 +1,6 @@
 ## About
 
 - Software Developer at **Metabank Inc.**
-- Studying **Computer Engineering** at **Hannam University**
 - Based in **Daejeon, South Korea**
 
 
