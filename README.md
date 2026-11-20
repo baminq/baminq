@@ -1,7 +1,7 @@
 ## About
 
 - Software Developer at **Metabank Inc.**
-- Based in **Daejeon, South Korea**
+- **Daejeon, South Korea**
 
 
 ## Links
